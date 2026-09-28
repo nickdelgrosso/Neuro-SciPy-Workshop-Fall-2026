@@ -46,13 +46,30 @@ Below are the three pieces of software we'll be relying on for the course: `uv`,
 
 Each Session, we'll do three notebooks
 
-  - (09:00): Homework Review (Notebook 1)
+  - **(09:00): Homework Review (Notebook 1)**
   - (09:45): 5-Minute Break
-  - (09:50): Topic Basics: (Notebook 2)
-  - (5 mins): Break
-  - (70 mins): Topic In-Depth: (Notebook 2 or Notebook 3) 
-  - (15 mins): Prep for those Ready
+  - **(09:50): Topic Basics (Notebook 2)**
+  - (11:00): Break
+  - **(11:05): Topic In-Depth (Notebook 3) or Continue Topic Basics**
+  - (12:15): Prep for Next Session
 
 
 All three notebooks should be sent to the [Exercise Submission Portal](https://uni-bonn.sciebo.de/apps/forms/s/DqkMtct6HRAQawG8FrHKEyHq).  If you want some help finishing Notebook 3 from the last session or Notebook 1 for the next session, you can alwasys schedule a quick 1-on-1 with Nick via his booking link.
 
+
+## Homework
+
+Please reserve some time for completing exercises out of class each week.  Estimated time:
+  - Pre-Session Homework (Notebook 1): 40-70 Minutes
+    - Completion goal: 75%-100%
+  - In-Depth Exercise (Notebook 3): 40-90 Minutes.  
+    - Completion goal: 50%-100%
+    - Note: there will be in-class time avalilable to work on this notebook each session, for those who wish it.
+
+
+## Course Certificate
+
+Participation Certificates will be sent after the course to everyone who:
+  - Attends at least 4.5 out of 6 sessions,
+  - and Submits at least 13 out of 17 exercises,
+  - and follows the Code of Conduct
