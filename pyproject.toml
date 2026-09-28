@@ -6,6 +6,5 @@ dependencies = [
     "ipykernel>=7.3.0",
     "jupyterlab>=4.6.4",
     "matplotlib>=3.11.2",
-    "numpy>=2.5.3",
-    "pyocclient>=0.6",
+    "numpy>=2.5.3"
 ]
