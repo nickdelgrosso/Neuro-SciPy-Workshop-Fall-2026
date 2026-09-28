@@ -1,0 +1,18 @@
+pyproject.toml
+  h_f3dc440392beca 9
+1_ArraysWithNumpy/1A_IntroToPython.ipynb
+  h_f3dc440392beca 725
+requirements.txt
+  h_f3dc440392beca 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e2f73f98c71fc8e01121b3d9b3c3a837a138427",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
