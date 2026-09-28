@@ -27,6 +27,8 @@ Below are the three pieces of software we'll be relying on for the course: `uv`,
 ### 2. Send in the Pre-Course Homework for Day 1: "Intro to Python and Numpy"
 
 
+
+
 **[Exercise Submission Portal](https://uni-bonn.sciebo.de/apps/forms/s/DqkMtct6HRAQawG8FrHKEyHq): https://uni-bonn.sciebo.de/apps/forms/s/DqkMtct6HRAQawG8FrHKEyHq**
 
 
@@ -46,11 +48,11 @@ Below are the three pieces of software we'll be relying on for the course: `uv`,
 
 Each Session, we'll do three notebooks
 
-  - **(09:00): Homework Review (Notebook 1)**
+  - **(09:00): Homework Review (Notebook A)**
   - (09:45): 5-Minute Break
-  - **(09:50): Topic Basics (Notebook 2)**
+  - **(09:50): Topic Basics (Notebook B)**
   - (11:00): Break
-  - **(11:05): Topic In-Depth (Notebook 3) or Continue Topic Basics**
+  - **(11:05): Topic In-Depth (Notebook C) or continue Topic Basics**
   - (12:15): Prep for Next Session
 
 
@@ -60,10 +62,12 @@ All three notebooks should be sent to the [Exercise Submission Portal](https://u
 ## Homework
 
 Please reserve some time for completing exercises out of class each week.  Estimated time:
-  - Pre-Session Homework (Notebook 1): 40-70 Minutes
-    - Completion goal: 75%-100%
-  - In-Depth Exercise (Notebook 3): 40-90 Minutes.  
-    - Completion goal: 50%-100%
+  - Pre-Session Homework (Notebook A): 40-70 Minutes
+    - Completion goal: 75%
+  - Topic Basics (Notebook B): 0 Minutes (submit during class time)
+    - Completion goal: 75%
+  - In-Depth Exercise (Notebook C): 40-90 Minutes.  
+    - Completion goal: 50%
     - Note: there will be in-class time avalilable to work on this notebook each session, for those who wish it.
 
 
