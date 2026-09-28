@@ -1,0 +1,25 @@
+1_ArraysWithNumpy/1A_IntroToPython.ipynb
+  s_6809c769278125::t_ba33072a276a89 27
+  s_6809c769278125::t_473e7c459d5183 28-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "39fb161430f9a434010587288535f3f6db269b62",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6809c769278125": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e834-4589-7321-bdf7-4929275d2ad5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
