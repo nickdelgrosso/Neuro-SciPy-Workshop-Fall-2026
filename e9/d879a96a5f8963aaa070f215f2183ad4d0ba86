@@ -1,0 +1,15 @@
+README.md
+  h_f3dc440392beca 30-31,51,53,55,65,67-69
+  h_f3dc440392beca 66,70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e9d879a96a5f8963aaa070f215f2183ad4d0ba86",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
