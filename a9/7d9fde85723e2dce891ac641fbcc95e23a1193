@@ -1,0 +1,27 @@
+CODE_OF_CONDUCT.md
+  h_f3dc440392beca 3
+  s_c4cc0cdf9a9457::t_209f9e30983ffc 1-2,4-26
+README.md
+  h_f3dc440392beca 49,51-54,59-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a97d9fde85723e2dce891ac641fbcc95e23a1193",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_c4cc0cdf9a9457": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e7fd-ee1b-7681-984c-47c8039e83d9",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
