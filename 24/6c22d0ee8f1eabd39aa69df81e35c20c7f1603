@@ -1,0 +1,14 @@
+.gitignore
+  h_f3dc440392beca 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "246c22d0ee8f1eabd39aa69df81e35c20c7f1603",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
