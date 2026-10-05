@@ -1,0 +1,20 @@
+.gitignore
+  h_f3dc440392beca 5
+1_ArraysWithNumpy/1C_DataVizMatplotlib.ipynb
+  h_f3dc440392beca 1-1052
+1_ArraysWithNumpy/data/gapminder.csv
+  h_f3dc440392beca 1-694
+pyproject.toml
+  h_f3dc440392beca 10,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d634d378f62fc5d44f91840def79292c30c53a03",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
