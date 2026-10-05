@@ -1,0 +1,18 @@
+1_ArraysWithNumpy/1B_ArrayProgramming.ipynb
+  h_f3dc440392beca 20-23
+1_ArraysWithNumpy/1C_DataVizMatplotlib.ipynb
+  h_f3dc440392beca 20-23
+2_NDArrays/2A_SignalGenerationsAndViz.ipynb
+  h_f3dc440392beca 20-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67986fd0052e6e329032912a8b8e3cac84bb08f0",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
