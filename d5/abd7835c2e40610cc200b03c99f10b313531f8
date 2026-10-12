@@ -1,0 +1,18 @@
+2_NDArrays/2B_VisualizingDataAndModels.ipynb
+  h_f3dc440392beca 1-660
+2_NDArrays/2B_VisualizingDataAndModels_SOL.ipynb
+  h_f3dc440392beca 1-787
+2_NDArrays/2C_ImagesWithNumpyAndMatplotlib_SOL.ipynb
+  h_f3dc440392beca 2,4-10,12,14-19,21,23-29,31,33-61,63,65-92,94,96-99,101,103-120,122,124-127,129,131-148,150,152-155,157,159-174,176,178-181,183,185-200,202,204-207,209,211-226,228,230-249,251,253-269,271,273-276,278,280-296,298,300-303,305,307-323,325,327-330,332,334-350,352,354-357,359,361-377,379,381-384,386,388-427,429,431-471,473,475-496,498,500-504,507-523,525,527-531,534-550,552,554-558,561-576,578,580-584,587-602,604-898
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d5abd7835c2e40610cc200b03c99f10b313531f8",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
