@@ -1,0 +1,18 @@
+2_NDArrays/2B_VisualizingDataAndModels.ipynb
+  h_f3dc440392beca 8-13
+2_NDArrays/2C_ImagesWithNumpyAndMatplotlib.ipynb
+  h_f3dc440392beca 10-13
+3_PythonObjects/3A_PythonTypes.ipynb
+  h_f3dc440392beca 12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c99b85600e76c139cb45b235b32d78ffdd66d75f",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
