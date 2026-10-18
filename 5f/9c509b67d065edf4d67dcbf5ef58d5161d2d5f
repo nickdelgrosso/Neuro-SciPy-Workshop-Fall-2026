@@ -1,0 +1,26 @@
+py.py
+  h_f3dc440392beca 1
+.gitignore
+  h_f3dc440392beca 5-7
+3_PythonObjects/.gitignore
+  h_f3dc440392beca 1-6
+3_PythonObjects/3C_DataframesForTabularData.ipynb
+  h_f3dc440392beca 1-709
+4_Dataframes/4A_ChainingDataframeMethods.ipynb
+  h_f3dc440392beca 1-843
+4_Dataframes/data/MentalRotation.csv
+  h_f3dc440392beca 1-5072
+pyproject.toml
+  h_f3dc440392beca 8,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5f9c509b67d065edf4d67dcbf5ef58d5161d2d5f",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
