@@ -2,3 +2,6 @@ uv.lock
 .venv
 organizer
 3_PythonObjects/2B_DictsForComplexStructuredData_SOL.ipynb
+3_PythonObjects/3B_DictsForComplexStructuredData_SOL.ipynb
+3_PythonObjects/3C_DataframesForTabularData_SOL.ipynb
+4_Dataframes/4A_ChainingDataframeMethods_SOL.ipynb
