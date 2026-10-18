@@ -38,10 +38,10 @@ Below are the three pieces of software we'll be relying on for the course: `uv`,
 | :-- | :-- |
 | 05.10.2026 | Analyzing Arrays of Data with Numpy, Matplotlib, and Scipy-Stats|
 | 12.10.2026 | Multidimensional Arrays and Images|
-| 19.10.2026 | Tabular Data Analysis with Pandas, Seaborn, and Pingouin |
-| 26.10.2026 | Structured Data Storage and Analysis with XArray and HDF5 |
-| 02.11.2026 | Data Pipeline Automation: Filesystems, Loops, and Snakemake|
-| 09.11.2026 | Organizing Your Python Projects: Packaging, Documentation, and Entry-Points|
+| 19.10.2026 | Tabular Data Analysis with Pandas |
+| 26.10.2026 | Data Science Pipelines with Seaborn and Pingouin |
+| 02.11.2026 | Structured Data Storage and Analysis with XArray and HDF5 |
+| 09.11.2026 | Data Pipeline Automation: Filesystems, Loops, and Snakemake|
 | (Joker Day) 30.11.2026 | 
 
 ## Daily Plan
