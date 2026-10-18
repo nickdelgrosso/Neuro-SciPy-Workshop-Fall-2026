@@ -11,4 +11,5 @@ dependencies = [
     "pyocclient>=0.6",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "xmltodict>=1.0.4",
 ]
