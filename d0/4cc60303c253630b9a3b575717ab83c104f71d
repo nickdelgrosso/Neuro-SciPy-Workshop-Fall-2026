@@ -1,0 +1,20 @@
+3_PythonObjects/3A_PythonTypes_DEMO.ipynb
+  h_f3dc440392beca 33-63
+3_PythonObjects/3B_DictsForComplexStructuredData_DEMO.ipynb
+  h_f3dc440392beca 1-1826
+3_PythonObjects/3B_DictsForComplexStructuredData_SOL.ipynb
+  h_f3dc440392beca 1-1588
+3_PythonObjects/hello.txt
+  h_f3dc440392beca 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d04cc60303c253630b9a3b575717ab83c104f71d",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
