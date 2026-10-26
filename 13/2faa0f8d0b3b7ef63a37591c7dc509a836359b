@@ -1,0 +1,16 @@
+4_Dataframes/4C_VisualDataExplorationWithSeaborn.ipynb
+  h_f3dc440392beca 1-2935
+pyproject.toml
+  h_f3dc440392beca 12,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "132faa0f8d0b3b7ef63a37591c7dc509a836359b",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
