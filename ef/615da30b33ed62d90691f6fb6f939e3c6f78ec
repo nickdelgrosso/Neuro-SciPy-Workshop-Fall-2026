@@ -1,0 +1,32 @@
+4_Dataframes/4B_LongTablesAndCategoricalAnalysis.ipynb
+  s_6a76a81ee3584a::t_0db9dca41d2655 1-3219
+4_Dataframes/data/titanic_Cherbourg.csv
+  s_6a76a81ee3584a::t_7a38491da952d4 1-169
+4_Dataframes/data/titanic_Queenstown.csv
+  s_6a76a81ee3584a::t_787d27e4a4ce8b 1-78
+4_Dataframes/data/titanic_Southampton.csv
+  s_6a76a81ee3584a::t_f367fc2f10956d 1-645
+4_Dataframes/data/worldbankdata.csv
+  s_6a76a81ee3584a::t_eaab947fc71204 1-220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ef615da30b33ed62d90691f6fb6f939e3c6f78ec",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6a76a81ee3584a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a157b6-998d-7040-9708-717da7a77cb6",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
