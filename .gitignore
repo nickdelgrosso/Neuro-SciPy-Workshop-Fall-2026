@@ -1,7 +1,5 @@
 uv.lock
 .venv
 organizer
-3_PythonObjects/3C_DataframesForTabularData_SOL.ipynb
-4_Dataframes/4A_ChainingDataframeMethods_SOL.ipynb
 4_Dataframes/4B_LongTablesAndCategoricalAnalysis_SOL.ipynb
 4_Dataframes/4C_VisualDataExplorationWithSeaborn_SOL.ipynb
