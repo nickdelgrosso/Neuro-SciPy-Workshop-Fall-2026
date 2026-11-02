@@ -1,0 +1,28 @@
+.gitignore
+  h_f3dc440392beca 6-8
+4_Dataframes/4A_ChainingDataframeMethods_DEMO.ipynb
+  h_f3dc440392beca 1-1195
+4_Dataframes/4B_LongTablesAndCategoricalAnalysis_DEMO.ipynb
+  h_f3dc440392beca 1-2762
+5_DatasetsAndStatistics/5B_XArray_Datasets.ipynb
+  h_f3dc440392beca 1-2272
+5_DatasetsAndStatistics/5B_XArray_Datasets_SOL_updated.ipynb
+  h_f3dc440392beca 1-5902
+5_DatasetsAndStatistics/5C_StatisticsWithPingouin.ipynb
+  h_f3dc440392beca 1-1269
+6_DataPipelines/6A_HDF5withH5py.ipynb
+  h_f3dc440392beca 1-1181
+pyproject.toml
+  h_f3dc440392beca 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d03c206ddb2625bc43258c9617788ddc1e6943c",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
