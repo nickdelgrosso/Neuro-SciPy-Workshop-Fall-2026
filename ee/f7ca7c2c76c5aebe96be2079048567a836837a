@@ -1,0 +1,24 @@
+.gitignore
+  h_f3dc440392beca 10-14
+5_DatasetsAndStatistics/5B_XArrayData.ipynb
+  h_f3dc440392beca 7,14,16,18-3293,3295-3308,3316-3320,3322-3476,3481,3488,3493,3502,4088,4097,4677,4688,5272,5285,5303,5314,5323,5335,5337,5339,5341,5348,5357,5364,5371,5380-5384,5386-5391,5395,5398,5405-5420,5422-5424,5431,5438-5446,5448-5451,5458,5465,5474-5486,5500,5514,5528,5535,5544-5565,5579,5587,5593,5607-5611,5618,5627-5629,5633,5636-5641,5648-5656,5658-5667,5674
+6_DataPipelines/6B1_SnakemakeWildcards.ipynb
+  h_f3dc440392beca 7,14,16,23,30,32,46,49,57,63,69,75,81,84,97,104,106,113,120-123,131,133-134,136,142,148,154,160,167,169,176,183,190,196,202,208,214,217-218,224,230,236,241,243
+6_DataPipelines/6B2_ConfidenceIntervalsWithSeaborn.ipynb
+  h_f3dc440392beca 1-1114
+6_DataPipelines/data/steinmetz_all.csv
+  h_f3dc440392beca 1-14421
+pyproject.toml
+  h_f3dc440392beca 6,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eef7ca7c2c76c5aebe96be2079048567a836837a",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
