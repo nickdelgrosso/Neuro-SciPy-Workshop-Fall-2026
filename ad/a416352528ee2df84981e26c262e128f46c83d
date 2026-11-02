@@ -1,0 +1,26 @@
+5_DatasetsAndStatistics/5B_XArray_Datasets.ipynb
+  h_f3dc440392beca 2264-2265
+6_DataPipelines/6A_SnakemakeStaticWorkflows.ipynb
+  h_f3dc440392beca 1-416
+.gitignore
+  h_f3dc440392beca 9-10
+6_DataPipelines/6A_SnakemakeStaticWorkflows_SOL.ipynb
+  h_f3dc440392beca 1-571
+5_DatasetsAndStatistics/5C_HDF5withH5py.ipynb
+  h_f3dc440392beca 1173-1174
+5_DatasetsAndStatistics/5C_HDF5withH5py_SOL.ipynb
+  h_f3dc440392beca 1-1522
+6_DataPipelines/6C_StatisticsWithPingouin_SOL.ipynb
+  h_f3dc440392beca 2-56,58-68,70-77,79-88,90-144,146-147,149,151-212,214-215,217-224,226-280,282-283,285,287-348,350-351,353,355-358,360,362-419,421,423-426,428,430-487,489,491-510,512,514-623,625,627-632,634,636-704,706,708-711,713,715-789,791,793-798,800-875,877-882,884-960,962-967,969-1042,1044-1060,1062-1136,1138-1143,1145-1514,1516-2667,2670-2671
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ada416352528ee2df84981e26c262e128f46c83d",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
