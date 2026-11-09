@@ -1,0 +1,28 @@
+4_Dataframes/4B_LongTablesAndCategoricalAnalysis_SOL.ipynb
+  h_f3dc440392beca 1-3260
+4_Dataframes/4C_VisualDataExplorationWithSeaborn_SOL.ipynb
+  h_f3dc440392beca 1-2935
+5_DatasetsAndStatistics/5B_XArrayData_DEMO.ipynb
+  h_f3dc440392beca 1-7074
+5_DatasetsAndStatistics/5B_XArrayData_SOL.ipynb
+  h_f3dc440392beca 1-12077
+6_DataPipelines/6A1_StatisticsWithPingouin_SOL.ipynb
+  h_f3dc440392beca 1-2672
+6_DataPipelines/6A2_SnakemakeStaticWorkflows_SOL.ipynb
+  h_f3dc440392beca 1-571
+6_DataPipelines/6B1_SnakemakeWildcards_SOL.ipynb
+  h_f3dc440392beca 1-482
+6_DataPipelines/6B2_ConfidenceIntervalsWithSeaborn_SOL.ipynb
+  h_f3dc440392beca 1-1428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "460cb34480d4fab258d93e014b19ae568a1b4a1f",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
